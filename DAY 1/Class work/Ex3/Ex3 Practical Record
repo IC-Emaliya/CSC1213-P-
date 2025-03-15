@@ -1,0 +1,47 @@
+Date- 12.03.2025
+Practical No- 03
+Problem Specification- Initialize differnt types of data and print them.
+Implementation- 
+class Ex3{
+	public static void main(String args[])
+	{
+		boolean isBool=true;
+		System.out.println("Boolean : "+isBool);
+		
+		byte Byteval=120;
+		System.out.println("Byte :"+Byteval);
+		
+		int Intval=1;
+		System.out.println("Integer :"+Intval);
+		
+		short Shortval=14569;
+		System.out.println("Short :"+Shortval);
+		
+		long Longval=10000;
+		System.out.println("Long :"+Longval);
+		
+		float Floatval=19.56f;
+		System.out.println("Float :"+Floatval);
+		
+		double Doubleval=169.456;
+		System.out.println("Double "+Doubleval);
+		
+		char Charval='a';
+		System.out.println("Char :"+Charval);
+		
+		char Charval1='\u0064';
+		System.out.println("Char :"+Charval1);
+		
+	}
+}
+
+output -Boolean :true
+        Byte :120
+        Integer :1
+        Short :14569
+        Long :10000
+        Float :19.56
+        Double :169.456
+        Char :a
+        Char :d
+Conclusion-learnt how to initialize and print different types of variables.
