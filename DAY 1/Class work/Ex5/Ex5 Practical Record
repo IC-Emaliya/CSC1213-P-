@@ -1,0 +1,31 @@
+Date- 12.03.2025
+Practical No- 05
+Problem Specification- Print your Name,Registration number,Degree programm.
+Implementation-
+class Ex5
+{
+	public static void main(String args[])
+	{
+		System.out.println("Name:Carththarina Emaliya Ignatious");
+		System.out.println("Registration number:2022/ASP/84");
+		System.out.println("Degree Programm:Bsc.ComputerScience");
+		System.out.println();
+		
+		String Name="Carththarina Emaliya Ignatious";
+		String Regno="2022/ASP/84";
+		String Degree="Bsc.ComputerScience";
+		
+		System.out.println("Full name :"+Name);
+		System.out.println("Registration number :"+Regno);
+		System.out.println("Degree Programm :"+Degree);
+	}
+}
+
+output- Name:Carththarina Emaliya Ignatious
+        Registration number:2022/ASP/84
+        Degree Programm:Bsc.ComputerScience
+
+        Full name :Carththarina Emaliya Ignatious
+        Registration number :2022/ASP?84
+        Degree Programm :Bsc.ComputerScience
+Conclusion- learnt how to Declare and Initialize String data type
