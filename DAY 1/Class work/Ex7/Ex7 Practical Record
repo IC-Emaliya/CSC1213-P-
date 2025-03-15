@@ -1,0 +1,25 @@
+Date- 12.03.2025
+Practical No- 07
+Problem Specification- Initialize two variables and find addition,subtraction,multiplication,division,reminder.
+Implementation-
+class Ex7
+{
+	public static void main(String args[])
+	{
+		int num1=15;
+		int num2=5;
+		
+		System.out.println("Addision is="+(num1+num2));
+		System.out.println("Subtraction is="+(num1-num2));
+		System.out.println("multiplication is="+(num1*num2));
+		System.out.println("division is="+(num1/num2));
+		System.out.println("reminder is="+(num1%num2));
+	}
+}
+
+Output- Addition is=20
+        Subtraction is=10
+        multiplication is=75
+        division is=3
+        reminder is=0
+Conclusion- Leart how to use arithmetic operators.
