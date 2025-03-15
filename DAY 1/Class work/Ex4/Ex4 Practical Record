@@ -1,0 +1,15 @@
+Date- 12.03.2025
+Practial No- 04
+Problem Specification- Print your name and address.
+Implementation-
+class Ex4{
+	public static void main(String args[])
+	{
+		System.out.println("First name:Carththarina\nLast name:Ignatious\nAddress:Thonikkal,Vavuniya");
+	}
+}
+
+Output- First name:Carththarina
+        Last nmae:Ignatious
+        Address:Thonikkal,Vavuniya
+conclusion- learnt how to print get next line.
